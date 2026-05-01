@@ -5,10 +5,10 @@ import time
 # =========================
 # CONFIG
 # =========================
-BOT_TOKEN = "apna bot token paste krdo "   # <-- put your bot token here
+BOT_TOKEN = "8744112471:AAEfdBHyA9HxSee6nSln1TYuD3h3_C60Blg"   # <-- put your bot token here
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
-EXTERNAL_API = "yha apna api "  # <-- leave blank or put your API base URL
+EXTERNAL_API = "https://osint-api.alphamovies.workers.dev/api/numinfo?key=flix9080&num="  # <-- leave blank or put your API base URL
 
 # Admin ID (put your Telegram numeric ID)
 ADMIN_ID = 7189814021
